@@ -35,14 +35,16 @@ o	Generate Reports (Admin)
 
 Block Diagram
 
-![image](https://github.com/SonawaneAshwini/Car-Rental-System/assets/172588428/35d652ce-9897-44e4-a564-bef18effb664)
+
+
+
 
 
 
 
 Use Case Diagram
 
-![image](https://github.com/SonawaneAshwini/Car-Rental-System/assets/172588428/9fef2e67-ccf2-4ab8-8a52-1566d79c1fd4)
+
 
 
  
