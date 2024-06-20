@@ -8,6 +8,16 @@
 ![Screenshot (346)](https://github.com/SonawaneAshwini/Car-Rental-System/assets/172588428/7ddb7a6d-d6ea-4597-a69e-58cd5716d10d)
 
 
+-LOGIN DETAILS-
+PASSWORD: pass
+IMPORTANT
+DO NOT DELETE ANY TEXT FILES OF THE PROJECT FOLDER.
+ALL THE TEXT FILES ARE LINKED WITH THE SYSTEM!!
+IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US
+
+
+
+
 
 # Introduction
 The Car Rental Management System is designed to manage the rental process of vehicles efficiently. 
