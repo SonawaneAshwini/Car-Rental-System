@@ -68,14 +68,6 @@ The system is implemented in C++ with a focus on modularity. Key components incl
 
 
 
-# Use Case Diagram
-
-![Screenshot (347)](https://github.com/SonawaneAshwini/Car-Rental-System/assets/172588428/365a6302-8f7f-4037-9225-ed4ae1d03cad)
-
-
-
-
-
 
 
 # Integration with Car Rental System
