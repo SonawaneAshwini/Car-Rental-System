@@ -48,7 +48,8 @@ The system is implemented in C++ with a focus on modularity. Key components incl
 
 # Use Case Diagram
 
-![image](https://github.com/SonawaneAshwini/Car-Rental-System/assets/172588428/af3724a9-df93-4a72-a49c-5b0918a32b30)
+![Screenshot (347)](https://github.com/SonawaneAshwini/Car-Rental-System/assets/172588428/365a6302-8f7f-4037-9225-ed4ae1d03cad)
+
 
 
  
