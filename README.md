@@ -87,7 +87,7 @@ Integration points within the system include:
 ## Contributors
 
 - Ashwini Sonawane
-  - Contact: ashwinisonawane@gmail.com
+  - Contact: ashwinisonawane9853@gmail.com
   - GitHub: [Profile](https://github.com/SonawaneAshwini)
 - Shravan Dalavi
   - Contact: shravandalavi137@gmail.com
