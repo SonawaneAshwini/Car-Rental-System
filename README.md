@@ -75,9 +75,13 @@ The system is implemented in C++ with a focus on modularity. Key components incl
 # Integration with Car Rental System
 Integration points within the system include:
 •	User Management: Integrates with the registration and login functionalities to ensure secure access.
+
 •	Car Management: Interfaces with the car inventory to manage availability and details.
+
 •	Booking System: Connects with both user and car management to facilitate bookings.
+
 •	Return System: Works with the booking system to process returns and update statuses.
+
 •	Invoice Generation: Compiles data from bookings to create accurate invoices.
 
 # Conclusion
