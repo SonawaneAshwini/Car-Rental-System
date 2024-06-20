@@ -30,10 +30,15 @@ The architecture of the Car Rental Management System is based on a modular desig
 
 # Features
 •	User Registration and Authentication: Allows new users to register and existing users to log in.
+
 •	Car Listing: Displays available cars for rent with details such as model, brand, rental price, and availability.
+
 •	Booking System: Enables users to book cars for specified durations.
+
 •	Return System: Manages the return process and updates the availability status of cars.
+
 •	Invoice Generation: Generates invoices for completed rentals, including details of the rental period and total cost.
+
 •	Admin Interface: Provides administrative functionalities for managing the car fleet and monitoring transactions.
 
 # Implementation
