@@ -12,24 +12,20 @@
 
 
 -LOGIN DETAILS-
+
 PASSWORD: pass
 
 
 IMPORTANT
+
 DO NOT DELETE ANY TEXT FILES OF THE PROJECT FOLDER.
 ALL THE TEXT FILES ARE LINKED WITH THE SYSTEM!!
-IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, FEEL FREE TO CONTACT US
+IF YOU FIND ANY ERRORS OR ANY PROBLEMS RELATED THIS PROGRAM, 
+FEEL FREE TO CONTACT US
 
 
 
 
-
-
-
-# Introduction
-The Car Rental Management System is designed to manage the rental process of vehicles efficiently. 
-It includes functionalities for user registration, car listing, booking, returning cars, and generating invoices. 
-The system aims to streamline the rental process, ensuring a seamless experience for both the rental company and the customers.
 
 # System Architecture
 The architecture of the Car Rental Management System is based on a modular design, where different components handle specific functionalities such as user management, vehicle management, and transaction processing. The system is developed using C++, leveraging object-oriented principles for better organization and maintainability.
@@ -46,6 +42,7 @@ The architecture of the Car Rental Management System is based on a modular desig
 •	Invoice Generation: Generates invoices for completed rentals, including details of the rental period and total cost.
 
 •	Admin Interface: Provides administrative functionalities for managing the car fleet and monitoring transactions.
+
 
 # Implementation
 The system is implemented in C++ with a focus on modularity. Key components include:
@@ -93,13 +90,7 @@ Integration points within the system include:
 
 •	Invoice Generation: Compiles data from bookings to create accurate invoices.
 
-# Conclusion
-The Car Rental Management System is a comprehensive solution for managing car rentals, encompassing user management, car inventory, booking, returning, and invoicing. Its modular architecture ensures that the system is maintainable and scalable, allowing for future enhancements and integrations.
 
-# References
-•	C++ documentation: cplusplus.com
-
-•	Object-Oriented Programming principles: OOP Concepts
 
 
 
