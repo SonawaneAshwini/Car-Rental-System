@@ -83,17 +83,6 @@ Integration points within the system include:
 •	Invoice Generation: Compiles data from bookings to create accurate invoices.
 
 
-
-
-
-## Contributors
-
-- Ashwini Sonawane
-  - Contact: ashwinisonawane@gmail.com
-  - GitHub: https://github.com/SonawaneAshwini
-- Shravan Dalavi
-  - Contact: shravandalavi137@gmail.com
-  - GitHub: https://github.com/ShravanDalavi
     
 ## Contributors
 
