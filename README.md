@@ -93,7 +93,16 @@ Integration points within the system include:
   - GitHub: https://github.com/SonawaneAshwini
 - Shravan Dalavi
   - Contact: shravandalavi137@gmail.com
-  - GitHub: https://github.com/ShravanDalavi 
+  - GitHub: https://github.com/ShravanDalavi
+    
+## Contributors
+
+- Ashwini Sonawane
+  - Contact: ashwinisonawane@gmail.com
+  - GitHub: [Profile](https://github.com/SonawaneAshwini)
+- Shravan Dalavi
+  - Contact: shravandalavi137@gmail.com
+  - GitHub:[Profile]( https://github.com/ShravanDalavi)
 
 
 
