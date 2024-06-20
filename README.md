@@ -80,6 +80,7 @@ The Car Rental Management System is a comprehensive solution for managing car re
 
 # References
 •	C++ documentation: cplusplus.com
+
 •	Object-Oriented Programming principles: OOP Concepts
 
 
