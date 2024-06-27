@@ -84,7 +84,8 @@ Integration points within the system include:
 
 
     
-## Contributors
+## Contributors ✨
+
 
 - Ashwini Sonawane
   - Contact: ashwinisonawane9853@gmail.com
